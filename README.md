@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PeteCone
 - 👀 I’m interested in Envirnmental Projects, Artficial Inteligence, Video Game Development
-- 🌱 I’m currently learning about AI and Game Development
-- 📫 How to reach me conepete@gmail.com
+- 🌱 I’m currently learning about AI and Machine Learning
+- 📫 You can reach me at petercconant@gmail.com
